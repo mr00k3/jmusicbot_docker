@@ -1,0 +1,1 @@
+curl https://github.com/jagrosh/MusicBot/releases/download/0.4.0/JMusicBot-0.4.0.jar -o musicbot.jar
